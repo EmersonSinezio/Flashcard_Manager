@@ -1,5 +1,3 @@
-### README
-
 # Flashcard Manager
 
 ## Descrição do Projeto
